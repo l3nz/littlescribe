@@ -1,0 +1,7 @@
+#-TO: {{email}}
+#-RE: Your new 
+
+
+Hello {{to}},
+
+you just purchased a ..... Your access code is #{{license-key}}. Please keep it in a safe place.
